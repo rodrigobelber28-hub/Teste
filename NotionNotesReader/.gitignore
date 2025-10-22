@@ -1,0 +1,33 @@
+# Arquivos de build
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Configurações sensíveis
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos de log
+*.log

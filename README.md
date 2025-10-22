@@ -12,8 +12,26 @@ O código remove caracteres inválidos como:
 
 ## 📁 Arquivos do Projeto
 
+- **RemoveInvalidChars.vbp** - Arquivo de projeto VB6 (abrir no Visual Basic 6)
+- **RemoveInvalidChars.vbw** - Configuração de janelas do projeto
 - **modRemoveInvalidChars.bas** - Módulo principal com funções de remoção
 - **frmRemoveInvalidChars.frm** - Formulário de exemplo com interface gráfica
+- **exemplo_uso.bas** - 11 exemplos práticos de uso
+
+## 🚀 Como Abrir o Projeto
+
+### No Visual Basic 6.0:
+1. Abra o Visual Basic 6.0
+2. Clique em **File** → **Open Project**
+3. Navegue até a pasta do projeto
+4. Selecione o arquivo **RemoveInvalidChars.vbp**
+5. Pressione **F5** para executar ou use **File** → **Make** para compilar
+
+### Estrutura do Projeto:
+- **Form**: frmRemoveInvalidChars (interface gráfica)
+- **Modules**: modRemoveInvalidChars (funções principais), ExemploUso (exemplos)
+- **References**: OLE Automation
+- **Components**: COMDLG32.OCX (Common Dialog)
 
 ## 🚀 Como Usar
 
